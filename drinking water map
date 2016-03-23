@@ -13,7 +13,10 @@
         "wetap:photo": "https://lh4.googleusercontent.com/_O4TNu1SGWXg/TaXjarCc8HI/AAAAAAAAA0g/K6XVKHSr4Eg/chilled-good-fillable-good.jpg",
         "wetap:quality": "good",
         "wetap:status": "working",
-        "wetap:temperature": "chilled"
+        "wetap:temperature": "chilled",
+        "marker-color": "#3bb2d0",
+        "marker-size": "medium",
+        "marker-symbol": "water"
       },
       "geometry": {
         "type": "Point",
@@ -28,7 +31,10 @@
       "id": "node/1951294241",
       "properties": {
         "@id": "node/1951294241",
-        "amenity": "drinking_water"
+        "amenity": "drinking_water",
+        "marker-color": "#3bb2d0",
+        "marker-size": "medium",
+        "marker-symbol": "water"
       },
       "geometry": {
         "type": "Point",
@@ -43,7 +49,10 @@
       "id": "node/1951294243",
       "properties": {
         "@id": "node/1951294243",
-        "amenity": "drinking_water"
+        "amenity": "drinking_water",
+        "marker-color": "#3bb2d0",
+        "marker-size": "medium",
+        "marker-symbol": "water"
       },
       "geometry": {
         "type": "Point",
@@ -58,7 +67,10 @@
       "id": "node/1951294244",
       "properties": {
         "@id": "node/1951294244",
-        "amenity": "drinking_water"
+        "amenity": "drinking_water",
+        "marker-color": "#3bb2d0",
+        "marker-size": "medium",
+        "marker-symbol": "water"
       },
       "geometry": {
         "type": "Point",
@@ -73,7 +85,10 @@
       "id": "node/1951294245",
       "properties": {
         "@id": "node/1951294245",
-        "amenity": "drinking_water"
+        "amenity": "drinking_water",
+        "marker-color": "#3bb2d0",
+        "marker-size": "medium",
+        "marker-symbol": "water"
       },
       "geometry": {
         "type": "Point",
@@ -88,7 +103,10 @@
       "id": "node/1951294246",
       "properties": {
         "@id": "node/1951294246",
-        "amenity": "drinking_water"
+        "amenity": "drinking_water",
+        "marker-color": "#3bb2d0",
+        "marker-size": "medium",
+        "marker-symbol": "water"
       },
       "geometry": {
         "type": "Point",
@@ -102,7 +120,7 @@
       "type": "Feature",
       "id": "node/1951294247",
       "properties": {
-        "marker-color": "#7E7E7E",
+        "marker-color": "#3bb2d0",
         "marker-size": "medium",
         "marker-symbol": "water",
         "@id": "node/1951294247",
@@ -121,7 +139,10 @@
       "id": "node/1951294249",
       "properties": {
         "@id": "node/1951294249",
-        "amenity": "drinking_water"
+        "amenity": "drinking_water",
+        "marker-color": "#3bb2d0",
+        "marker-size": "medium",
+        "marker-symbol": "water"
       },
       "geometry": {
         "type": "Point",
@@ -136,7 +157,10 @@
       "id": "node/1951294250",
       "properties": {
         "@id": "node/1951294250",
-        "amenity": "drinking_water"
+        "amenity": "drinking_water",
+        "marker-color": "#3bb2d0",
+        "marker-size": "medium",
+        "marker-symbol": "water"
       },
       "geometry": {
         "type": "Point",
@@ -151,7 +175,10 @@
       "id": "node/1951294251",
       "properties": {
         "@id": "node/1951294251",
-        "amenity": "drinking_water"
+        "amenity": "drinking_water",
+        "marker-color": "#3bb2d0",
+        "marker-size": "medium",
+        "marker-symbol": "water"
       },
       "geometry": {
         "type": "Point",
@@ -167,7 +194,10 @@
       "properties": {
         "@id": "node/1951294252",
         "amenity": "drinking_water",
-        "wheelchair": "yes"
+        "wheelchair": "yes",
+        "marker-color": "#3bb2d0",
+        "marker-size": "medium",
+        "marker-symbol": "water"
       },
       "geometry": {
         "type": "Point",
@@ -182,7 +212,10 @@
       "id": "node/1951294253",
       "properties": {
         "@id": "node/1951294253",
-        "amenity": "drinking_water"
+        "amenity": "drinking_water",
+        "marker-color": "#3bb2d0",
+        "marker-size": "medium",
+        "marker-symbol": "water"
       },
       "geometry": {
         "type": "Point",
@@ -197,7 +230,10 @@
       "id": "node/1951294254",
       "properties": {
         "@id": "node/1951294254",
-        "amenity": "drinking_water"
+        "amenity": "drinking_water",
+        "marker-color": "#3bb2d0",
+        "marker-size": "medium",
+        "marker-symbol": "water"
       },
       "geometry": {
         "type": "Point",
@@ -212,7 +248,10 @@
       "id": "node/1951294256",
       "properties": {
         "@id": "node/1951294256",
-        "amenity": "drinking_water"
+        "amenity": "drinking_water",
+        "marker-color": "#3bb2d0",
+        "marker-size": "medium",
+        "marker-symbol": "water"
       },
       "geometry": {
         "type": "Point",
@@ -227,7 +266,10 @@
       "id": "node/2079483435",
       "properties": {
         "@id": "node/2079483435",
-        "amenity": "drinking_water"
+        "amenity": "drinking_water",
+        "marker-color": "#3bb2d0",
+        "marker-size": "medium",
+        "marker-symbol": "water"
       },
       "geometry": {
         "type": "Point",
@@ -242,7 +284,10 @@
       "id": "node/2079483445",
       "properties": {
         "@id": "node/2079483445",
-        "amenity": "drinking_water"
+        "amenity": "drinking_water",
+        "marker-color": "#3bb2d0",
+        "marker-size": "medium",
+        "marker-symbol": "water"
       },
       "geometry": {
         "type": "Point",
@@ -257,7 +302,10 @@
       "id": "node/2146029693",
       "properties": {
         "@id": "node/2146029693",
-        "amenity": "drinking_water"
+        "amenity": "drinking_water",
+        "marker-color": "#3bb2d0",
+        "marker-size": "medium",
+        "marker-symbol": "water"
       },
       "geometry": {
         "type": "Point",
@@ -272,7 +320,10 @@
       "id": "node/2176385640",
       "properties": {
         "@id": "node/2176385640",
-        "amenity": "drinking_water"
+        "amenity": "drinking_water",
+        "marker-color": "#3bb2d0",
+        "marker-size": "medium",
+        "marker-symbol": "water"
       },
       "geometry": {
         "type": "Point",
@@ -287,7 +338,10 @@
       "id": "node/2187815810",
       "properties": {
         "@id": "node/2187815810",
-        "amenity": "drinking_water"
+        "amenity": "drinking_water",
+        "marker-color": "#3bb2d0",
+        "marker-size": "medium",
+        "marker-symbol": "water"
       },
       "geometry": {
         "type": "Point",
@@ -302,7 +356,10 @@
       "id": "node/2187815817",
       "properties": {
         "@id": "node/2187815817",
-        "amenity": "drinking_water"
+        "amenity": "drinking_water",
+        "marker-color": "#3bb2d0",
+        "marker-size": "medium",
+        "marker-symbol": "water"
       },
       "geometry": {
         "type": "Point",
@@ -317,7 +374,10 @@
       "id": "node/2187822727",
       "properties": {
         "@id": "node/2187822727",
-        "amenity": "drinking_water"
+        "amenity": "drinking_water",
+        "marker-color": "#3bb2d0",
+        "marker-size": "medium",
+        "marker-symbol": "water"
       },
       "geometry": {
         "type": "Point",
@@ -332,7 +392,10 @@
       "id": "node/2187827332",
       "properties": {
         "@id": "node/2187827332",
-        "amenity": "drinking_water"
+        "amenity": "drinking_water",
+        "marker-color": "#3bb2d0",
+        "marker-size": "medium",
+        "marker-symbol": "water"
       },
       "geometry": {
         "type": "Point",
@@ -347,7 +410,10 @@
       "id": "node/2245468303",
       "properties": {
         "@id": "node/2245468303",
-        "amenity": "drinking_water"
+        "amenity": "drinking_water",
+        "marker-color": "#3bb2d0",
+        "marker-size": "medium",
+        "marker-symbol": "water"
       },
       "geometry": {
         "type": "Point",
@@ -362,7 +428,10 @@
       "id": "node/2263380334",
       "properties": {
         "@id": "node/2263380334",
-        "amenity": "drinking_water"
+        "amenity": "drinking_water",
+        "marker-color": "#3bb2d0",
+        "marker-size": "medium",
+        "marker-symbol": "water"
       },
       "geometry": {
         "type": "Point",
@@ -377,7 +446,10 @@
       "id": "node/2278968060",
       "properties": {
         "@id": "node/2278968060",
-        "amenity": "drinking_water"
+        "amenity": "drinking_water",
+        "marker-color": "#3bb2d0",
+        "marker-size": "medium",
+        "marker-symbol": "water"
       },
       "geometry": {
         "type": "Point",
@@ -392,7 +464,10 @@
       "id": "node/2297644897",
       "properties": {
         "@id": "node/2297644897",
-        "amenity": "drinking_water"
+        "amenity": "drinking_water",
+        "marker-color": "#3bb2d0",
+        "marker-size": "medium",
+        "marker-symbol": "water"
       },
       "geometry": {
         "type": "Point",
@@ -407,7 +482,10 @@
       "id": "node/2323758469",
       "properties": {
         "@id": "node/2323758469",
-        "amenity": "drinking_water"
+        "amenity": "drinking_water",
+        "marker-color": "#3bb2d0",
+        "marker-size": "medium",
+        "marker-symbol": "water"
       },
       "geometry": {
         "type": "Point",
