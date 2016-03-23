@@ -1,0 +1,113 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2016-03-23T19:22:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 496255823,
+  "lat": 36.9973330,
+  "lon": -122.0523186,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Stevenson Coffee House",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 497392843,
+  "lat": 36.9999717,
+  "lon": -122.0544204,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Banana Joe's",
+    "shop": "convenience",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 821295759,
+  "lat": 36.9971485,
+  "lon": -122.0531662,
+  "tags": {
+    "amenity": "cafe",
+    "entrance": "main",
+    "name": "Cowell Coffee Shop",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 2315312282,
+  "lat": 37.0003369,
+  "lon": -122.0630385,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Perk Coffee Bar"
+  }
+},
+{
+  "type": "node",
+  "id": 2315312284,
+  "lat": 36.9979456,
+  "lon": -122.0599639,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Perk Coffee Bar"
+  }
+},
+{
+  "type": "node",
+  "id": 2315312285,
+  "lat": 37.0009917,
+  "lon": -122.0579922,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Perk Coffee Bar"
+  }
+},
+{
+  "type": "node",
+  "id": 2315312286,
+  "lat": 36.9994879,
+  "lon": -122.0617288,
+  "tags": {
+    "amenity": "cafe",
+    "name": "Perk Coffee Bar"
+  }
+},
+{
+  "type": "node",
+  "id": 2364340621,
+  "lat": 36.9960790,
+  "lon": -122.0593095,
+  "tags": {
+    "addr:city": "Santa Cruz",
+    "addr:housenumber": "414",
+    "addr:postcode": "95064",
+    "addr:street": "McHenry Road",
+    "amenity": "cafe",
+    "name": "Amazon Juices by Cafe Brazil"
+  }
+},
+{
+  "type": "node",
+  "id": 3099104539,
+  "lat": 37.0003463,
+  "lon": -122.0579470,
+  "tags": {
+    "amenity": "cafe",
+    "level": "1",
+    "name": "Terry Freitas Café"
+  }
+}
+
+  ]
+}
+
