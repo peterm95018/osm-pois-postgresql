@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-turbo",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2016-03-23T19:27:02Z",
+  "timestamp": "2016-03-23T19:29:02Z",
   "features": [
     {
       "type": "Feature",
@@ -139,6 +139,22 @@
     },
     {
       "type": "Feature",
+      "id": "node/2000709332",
+      "properties": {
+        "@id": "node/2000709332",
+        "amenity": "parking",
+        "fee": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0633935,
+          36.99921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/2000711476",
       "properties": {
         "@id": "node/2000711476",
@@ -155,6 +171,54 @@
     },
     {
       "type": "Feature",
+      "id": "node/2000726875",
+      "properties": {
+        "@id": "node/2000726875",
+        "amenity": "parking",
+        "fee": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0643806,
+          36.9942875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2000727667",
+      "properties": {
+        "@id": "node/2000727667",
+        "amenity": "parking",
+        "fee": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0647239,
+          36.9940988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2000729169",
+      "properties": {
+        "@id": "node/2000729169",
+        "amenity": "parking",
+        "fee": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.061634,
+          36.9936577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/2000740902",
       "properties": {
         "@id": "node/2000740902",
@@ -166,6 +230,38 @@
         "coordinates": [
           -122.0580023,
           36.9994926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2000751860",
+      "properties": {
+        "@id": "node/2000751860",
+        "amenity": "parking",
+        "fee": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0686721,
+          36.9904956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2000759497",
+      "properties": {
+        "@id": "node/2000759497",
+        "amenity": "parking",
+        "fee": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0674063,
+          36.9917895
         ]
       }
     },
@@ -221,6 +317,167 @@
     },
     {
       "type": "Feature",
+      "id": "node/2003661717",
+      "properties": {
+        "@id": "node/2003661717",
+        "amenity": "parking",
+        "fee": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0618447,
+          37.0006358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2003684877",
+      "properties": {
+        "@id": "node/2003684877",
+        "amenity": "parking",
+        "fee": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0664291,
+          36.9992413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2003695588",
+      "properties": {
+        "@id": "node/2003695588",
+        "amenity": "parking",
+        "fee": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0672874,
+          36.9968678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2003721798",
+      "properties": {
+        "@id": "node/2003721798",
+        "amenity": "parking",
+        "fee": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0652972,
+          36.9970178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2003731893",
+      "properties": {
+        "@id": "node/2003731893",
+        "amenity": "parking",
+        "fee": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.064337,
+          36.9925962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2003738552",
+      "properties": {
+        "@id": "node/2003738552",
+        "amenity": "parking",
+        "fee": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0550368,
+          37.0021944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2003758171",
+      "properties": {
+        "@id": "node/2003758171",
+        "amenity": "parking",
+        "fee": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0646925,
+          36.9902356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2003771438",
+      "properties": {
+        "@id": "node/2003771438",
+        "amenity": "parking",
+        "fee": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0659785,
+          36.9900382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2003798524",
+      "properties": {
+        "@id": "node/2003798524",
+        "amenity": "parking",
+        "fee": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0554969,
+          36.9853248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2003803353",
+      "properties": {
+        "@id": "node/2003803353",
+        "access": "permissive",
+        "amenity": "parking",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0556472,
+          36.9876973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/2005002206",
       "properties": {
         "@id": "node/2005002206",
@@ -256,6 +513,125 @@
     },
     {
       "type": "Feature",
+      "id": "node/2005002208",
+      "properties": {
+        "@id": "node/2005002208",
+        "access": "permissive",
+        "amenity": "parking",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0575081,
+          37.0016927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2005002210",
+      "properties": {
+        "@id": "node/2005002210",
+        "access": "permissive",
+        "amenity": "parking",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0580198,
+          37.0017522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2005002211",
+      "properties": {
+        "@id": "node/2005002211",
+        "access": "permissive",
+        "amenity": "parking",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0591851,
+          37.0018526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2005002212",
+      "properties": {
+        "@id": "node/2005002212",
+        "access": "permissive",
+        "amenity": "parking",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.059201,
+          37.0022905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2005002226",
+      "properties": {
+        "@id": "node/2005002226",
+        "access": "permissive",
+        "amenity": "parking",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0587206,
+          37.0032977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2007061581",
+      "properties": {
+        "@id": "node/2007061581",
+        "access": "permissive",
+        "amenity": "parking",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0617274,
+          36.9966814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2007061585",
+      "properties": {
+        "@id": "node/2007061585",
+        "access": "permissive",
+        "amenity": "parking",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0651647,
+          36.9968528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/2007061600",
       "properties": {
         "@id": "node/2007061600",
@@ -273,6 +649,23 @@
     },
     {
       "type": "Feature",
+      "id": "node/2007061603",
+      "properties": {
+        "@id": "node/2007061603",
+        "access": "permissive",
+        "amenity": "parking",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0535928,
+          37.0020837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/2007092564",
       "properties": {
         "@id": "node/2007092564",
@@ -285,6 +678,105 @@
         "coordinates": [
           -122.0508939,
           36.9995927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2007217654",
+      "properties": {
+        "@id": "node/2007217654",
+        "access": "permissive",
+        "amenity": "parking",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0675464,
+          36.9928438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2007217655",
+      "properties": {
+        "@id": "node/2007217655",
+        "access": "permissive",
+        "amenity": "parking",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0685544,
+          36.9916267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2007217658",
+      "properties": {
+        "@id": "node/2007217658",
+        "access": "permissive",
+        "amenity": "parking",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0678115,
+          36.9919866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2007228304",
+      "properties": {
+        "@id": "node/2007228304",
+        "amenity": "parking",
+        "fee": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0680163,
+          36.9910416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2007228313",
+      "properties": {
+        "@id": "node/2007228313",
+        "amenity": "parking",
+        "fee": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0687481,
+          36.9908322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2007228322",
+      "properties": {
+        "@id": "node/2007228322",
+        "amenity": "parking",
+        "fee": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.067787,
+          36.9909463
         ]
       }
     },
@@ -358,6 +850,74 @@
     },
     {
       "type": "Feature",
+      "id": "node/2008961503",
+      "properties": {
+        "@id": "node/2008961503",
+        "access": "permissive",
+        "amenity": "parking",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0620885,
+          37.0017015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2008961514",
+      "properties": {
+        "@id": "node/2008961514",
+        "access": "permissive",
+        "amenity": "parking",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0618768,
+          37.0007889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2008961520",
+      "properties": {
+        "@id": "node/2008961520",
+        "access": "permissive",
+        "amenity": "parking",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0628693,
+          37.0014048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2009042775",
+      "properties": {
+        "@id": "node/2009042775",
+        "access": "private",
+        "amenity": "parking",
+        "parking": "surface"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0637422,
+          37.0009017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/2009596960",
       "properties": {
         "@id": "node/2009596960",
@@ -370,6 +930,23 @@
         "coordinates": [
           -122.0582499,
           37.0010503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2011300528",
+      "properties": {
+        "@id": "node/2011300528",
+        "access": "permissive",
+        "amenity": "parking",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.05816,
+          37.0025479
         ]
       }
     },
@@ -392,6 +969,58 @@
     },
     {
       "type": "Feature",
+      "id": "node/2013487116",
+      "properties": {
+        "@id": "node/2013487116",
+        "access": "permissive",
+        "amenity": "parking",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0633796,
+          36.9904156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2013492443",
+      "properties": {
+        "@id": "node/2013492443",
+        "access": "permissive",
+        "amenity": "parking",
+        "parking": "surface",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0639241,
+          36.9912854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2015656073",
+      "properties": {
+        "@id": "node/2015656073",
+        "access": "permissive",
+        "amenity": "parking",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0553135,
+          36.9852884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/2015656076",
       "properties": {
         "@id": "node/2015656076",
@@ -404,6 +1033,23 @@
         "coordinates": [
           -122.0610347,
           36.9935955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2016228834",
+      "properties": {
+        "@id": "node/2016228834",
+        "access": "permissive",
+        "amenity": "parking",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0552732,
+          36.9885543
         ]
       }
     },
@@ -460,6 +1106,57 @@
     },
     {
       "type": "Feature",
+      "id": "node/2041140704",
+      "properties": {
+        "@id": "node/2041140704",
+        "access": "permissive",
+        "amenity": "parking",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0520748,
+          36.9908614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2041149368",
+      "properties": {
+        "@id": "node/2041149368",
+        "access": "permissive",
+        "amenity": "parking",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0635654,
+          36.9990917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2041151334",
+      "properties": {
+        "@id": "node/2041151334",
+        "access": "permissive",
+        "amenity": "parking",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0626964,
+          36.9982049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/2041157201",
       "properties": {
         "@id": "node/2041157201",
@@ -494,6 +1191,74 @@
     },
     {
       "type": "Feature",
+      "id": "node/2041160492",
+      "properties": {
+        "@id": "node/2041160492",
+        "access": "permissive",
+        "amenity": "parking",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0658292,
+          36.9952917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2041161222",
+      "properties": {
+        "@id": "node/2041161222",
+        "access": "permissive",
+        "amenity": "parking",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0648207,
+          36.9940575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2041162935",
+      "properties": {
+        "@id": "node/2041162935",
+        "access": "permissive",
+        "amenity": "parking",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0647509,
+          36.9883677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2041163141",
+      "properties": {
+        "@id": "node/2041163141",
+        "access": "permissive",
+        "amenity": "parking",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0684148,
+          36.9912856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/2041163322",
       "properties": {
         "@id": "node/2041163322",
@@ -506,6 +1271,108 @@
         "coordinates": [
           -122.0579023,
           36.999751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2041166160",
+      "properties": {
+        "@id": "node/2041166160",
+        "access": "permissive",
+        "amenity": "parking",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0664407,
+          36.9989373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2041166544",
+      "properties": {
+        "@id": "node/2041166544",
+        "access": "permissive",
+        "amenity": "parking",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0669879,
+          36.9971938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2041167563",
+      "properties": {
+        "@id": "node/2041167563",
+        "access": "permissive",
+        "amenity": "parking",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0671649,
+          36.9974166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2041189633",
+      "properties": {
+        "@id": "node/2041189633",
+        "access": "permissive",
+        "amenity": "parking",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0648046,
+          36.9921723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2041218018",
+      "properties": {
+        "@id": "node/2041218018",
+        "access": "permissive",
+        "amenity": "parking",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0646544,
+          37.0000597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2041219465",
+      "properties": {
+        "@id": "node/2041219465",
+        "access": "permissive",
+        "amenity": "parking",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0643647,
+          36.9981577
         ]
       }
     },
@@ -579,6 +1446,57 @@
     },
     {
       "type": "Feature",
+      "id": "node/2047224161",
+      "properties": {
+        "@id": "node/2047224161",
+        "access": "permissive",
+        "amenity": "parking",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0613095,
+          36.9952358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2047258796",
+      "properties": {
+        "@id": "node/2047258796",
+        "access": "permissive",
+        "amenity": "parking",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0620955,
+          36.9952403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2050580349",
+      "properties": {
+        "@id": "node/2050580349",
+        "access": "permissive",
+        "amenity": "parking",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0608915,
+          36.9826703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/2060394433",
       "properties": {
         "@id": "node/2060394433",
@@ -591,6 +1509,23 @@
         "coordinates": [
           -122.050992,
           36.9971455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2062141116",
+      "properties": {
+        "@id": "node/2062141116",
+        "access": "permissive",
+        "amenity": "parking",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0619363,
+          36.9991636
         ]
       }
     },
