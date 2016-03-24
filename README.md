@@ -23,7 +23,7 @@ Using Overpass, we can create queries that can then be exported as geojson. Once
 <img src="Screen Shot 2016-03-23 at 5.13.19 PM.png">
 
 # Queries
-Here's a simple query.
+Here's a simple query. I simply used the Overpass wizard and entered recycling.
 
 ```
 [out:json][timeout:25];
@@ -39,3 +39,5 @@ out body;
 >;
 out skel qt;
 ```
+Once the data is returned, you'll want to export it (not just copy the data link). Why? Exporting can give you the geojson format. Copying the data just gives you json. Different but significant; ymmv.
+
