@@ -23,16 +23,34 @@ Using Overpass, we can create queries that can then be exported as geojson. Once
 <img src="Screen Shot 2016-03-23 at 5.13.19 PM.png">
 
 # Queries
-Here's a simple query. I simply used the Overpass wizard and entered recycling.
+Here's a simple query. I simply used the Overpass wizard and entered cafe. While this can get us some data, we probably want to adjust the query to include cafe or restaraunt.
 
 ```
 [out:json][timeout:25];
 // gather results
 (
-  // query part for: “recycling”
-  node["amenity"="recycling"]({{bbox}});
-  way["amenity"="recycling"]({{bbox}});
-  relation["amenity"="recycling"]({{bbox}});
+  // query part for: “cafe”
+  node["amenity"="cafe"]({{bbox}});
+  way["amenity"="cafe"]({{bbox}});
+  relation["amenity"="cafe"]({{bbox}});
+);
+// print results
+out body;
+>;
+out skel qt;
+```
+```
+[out:json][timeout:25];
+// gather results
+(
+  // query part for: “cafe”
+  node["amenity"="cafe"]({{bbox}});
+  way["amenity"="cafe"]({{bbox}});
+  relation["amenity"="cafe"]({{bbox}});
+  // query part for: “restaurant”
+  node["amenity"="restaurant"]({{bbox}});
+  way["amenity"="restaurant"]({{bbox}});
+  relation["amenity"="restaurant"]({{bbox}});
 );
 // print results
 out body;
