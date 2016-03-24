@@ -21,3 +21,21 @@ toilets
 Using Overpass, we can create queries that can then be exported as geojson. Once the data is in geojson, you can use the http://geojson.io functionality of github to further style and edit your dataset.
 
 <img src="Screen Shot 2016-03-23 at 5.13.19 PM.png">
+
+# Queries
+Here's a simple query.
+
+```
+[out:json][timeout:25];
+// gather results
+(
+  // query part for: “recycling”
+  node["amenity"="recycling"]({{bbox}});
+  way["amenity"="recycling"]({{bbox}});
+  relation["amenity"="recycling"]({{bbox}});
+);
+// print results
+out body;
+>;
+out skel qt;
+```
