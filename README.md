@@ -1,5 +1,23 @@
 # osm-pois
 OSM maps and geojson datasets of Points of Interest
 
-I created a bounding box for the campus in overpass and then ran a few queries to bring back points of interest data. We're going to experiment with various POI based maps for different audience types.
+To extract POI data out of OpenStreetMap, the best tool to use is http://overpass-turbo.eu. 
 
+Start by drawing a bounding box rectangle around the campus. This sets the bounds of the queries. So, if you bound the campus proper, you won't get the Marine Science Campus, 2300 Delaware, 250 Natural Bridges, 1201 Shaffer or 2155 Delaware in your results. 
+
+The most interesting POI's are amenities such as:
+cafe
+drinking_water
+library
+bicycle_parking
+bicycle_repair_station
+parking
+atm
+theatre
+police
+post_office
+toilets
+
+Using Overpass, we can create queries that can then be exported as geojson. Once the data is in geojson, you can use the http://geojson.io functionality of github to further style and edit your dataset.
+
+<img src="Screen Shot 2016-03-23 at 5.13.19 PM.png">
