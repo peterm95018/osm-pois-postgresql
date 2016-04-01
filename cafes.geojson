@@ -1,8 +1,5 @@
 {
   "type": "FeatureCollection",
-  "generator": "overpass-turbo",
-  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2016-03-23T19:22:02Z",
   "features": [
     {
       "type": "Feature",
@@ -11,7 +8,10 @@
         "@id": "node/496255823",
         "amenity": "cafe",
         "name": "Stevenson Coffee House",
-        "wheelchair": "yes"
+        "wheelchair": "yes",
+        "marker-color": "#ff9933",
+        "marker-size": "medium",
+        "marker-symbol": "cafe"
       },
       "geometry": {
         "type": "Point",
@@ -29,7 +29,10 @@
         "amenity": "cafe",
         "name": "Banana Joe's",
         "shop": "convenience",
-        "wheelchair": "yes"
+        "wheelchair": "yes",
+        "marker-color": "#ff9933",
+        "marker-size": "medium",
+        "marker-symbol": "cafe"
       },
       "geometry": {
         "type": "Point",
@@ -47,7 +50,10 @@
         "amenity": "cafe",
         "entrance": "main",
         "name": "Cowell Coffee Shop",
-        "wheelchair": "limited"
+        "wheelchair": "limited",
+        "marker-color": "#ff9933",
+        "marker-size": "medium",
+        "marker-symbol": "cafe"
       },
       "geometry": {
         "type": "Point",
@@ -63,7 +69,10 @@
       "properties": {
         "@id": "node/2315312282",
         "amenity": "cafe",
-        "name": "Perk Coffee Bar"
+        "name": "Perk Coffee Bar",
+        "marker-color": "#ff9933",
+        "marker-size": "medium",
+        "marker-symbol": "cafe"
       },
       "geometry": {
         "type": "Point",
@@ -79,7 +88,10 @@
       "properties": {
         "@id": "node/2315312284",
         "amenity": "cafe",
-        "name": "Perk Coffee Bar"
+        "name": "Perk Coffee Bar",
+        "marker-color": "#ff9933",
+        "marker-size": "medium",
+        "marker-symbol": "cafe"
       },
       "geometry": {
         "type": "Point",
@@ -95,7 +107,10 @@
       "properties": {
         "@id": "node/2315312285",
         "amenity": "cafe",
-        "name": "Perk Coffee Bar"
+        "name": "Perk Coffee Bar",
+        "marker-color": "#ff9933",
+        "marker-size": "medium",
+        "marker-symbol": "cafe"
       },
       "geometry": {
         "type": "Point",
@@ -111,7 +126,10 @@
       "properties": {
         "@id": "node/2315312286",
         "amenity": "cafe",
-        "name": "Perk Coffee Bar"
+        "name": "Perk Coffee Bar",
+        "marker-color": "#ff9933",
+        "marker-size": "medium",
+        "marker-symbol": "cafe"
       },
       "geometry": {
         "type": "Point",
@@ -125,10 +143,13 @@
       "type": "Feature",
       "id": "node/2364340621",
       "properties": {
+        "marker-color": "#ff9933",
+        "marker-size": "medium",
+        "marker-symbol": "cafe",
         "@id": "node/2364340621",
         "addr:city": "Santa Cruz",
-        "addr:housenumber": "414",
-        "addr:postcode": "95064",
+        "addr:housenumber": 414,
+        "addr:postcode": 95064,
         "addr:street": "McHenry Road",
         "amenity": "cafe",
         "name": "Amazon Juices by Cafe Brazil"
@@ -148,7 +169,10 @@
         "@id": "node/3099104539",
         "amenity": "cafe",
         "level": "1",
-        "name": "Terry Freitas Café"
+        "name": "Terry Freitas Café",
+        "marker-color": "#ff9933",
+        "marker-size": "medium",
+        "marker-symbol": "cafe"
       },
       "geometry": {
         "type": "Point",
