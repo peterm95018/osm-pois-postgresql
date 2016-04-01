@@ -1,8 +1,5 @@
 {
   "type": "FeatureCollection",
-  "generator": "overpass-turbo",
-  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2016-03-23T19:31:03Z",
   "features": [
     {
       "type": "Feature",
@@ -10,7 +7,10 @@
       "properties": {
         "@id": "node/497393060",
         "amenity": "bicycle_parking",
-        "capacity": "12"
+        "capacity": "12",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -26,7 +26,10 @@
       "properties": {
         "@id": "node/506391357",
         "amenity": "bicycle_parking",
-        "capacity": "60"
+        "capacity": "60",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -41,7 +44,10 @@
       "id": "node/1206758221",
       "properties": {
         "@id": "node/1206758221",
-        "amenity": "bicycle_parking"
+        "amenity": "bicycle_parking",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -56,7 +62,10 @@
       "id": "node/1206758224",
       "properties": {
         "@id": "node/1206758224",
-        "amenity": "bicycle_parking"
+        "amenity": "bicycle_parking",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -71,7 +80,10 @@
       "id": "node/1206758226",
       "properties": {
         "@id": "node/1206758226",
-        "amenity": "bicycle_parking"
+        "amenity": "bicycle_parking",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -85,6 +97,9 @@
       "type": "Feature",
       "id": "node/1206758228",
       "properties": {
+        "marker-color": "#63b6e5",
+        "marker-size": "medium",
+        "marker-symbol": "bicycle",
         "@id": "node/1206758228",
         "amenity": "bicycle_parking"
       },
@@ -101,7 +116,10 @@
       "id": "node/1206758230",
       "properties": {
         "@id": "node/1206758230",
-        "amenity": "bicycle_parking"
+        "amenity": "bicycle_parking",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -116,7 +134,10 @@
       "id": "node/1206758233",
       "properties": {
         "@id": "node/1206758233",
-        "amenity": "bicycle_parking"
+        "amenity": "bicycle_parking",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -131,7 +152,10 @@
       "id": "node/1206758235",
       "properties": {
         "@id": "node/1206758235",
-        "amenity": "bicycle_parking"
+        "amenity": "bicycle_parking",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -146,7 +170,10 @@
       "id": "node/1206758237",
       "properties": {
         "@id": "node/1206758237",
-        "amenity": "bicycle_parking"
+        "amenity": "bicycle_parking",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -161,7 +188,10 @@
       "id": "node/1206758239",
       "properties": {
         "@id": "node/1206758239",
-        "amenity": "bicycle_parking"
+        "amenity": "bicycle_parking",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -176,7 +206,10 @@
       "id": "node/1206758244",
       "properties": {
         "@id": "node/1206758244",
-        "amenity": "bicycle_parking"
+        "amenity": "bicycle_parking",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -192,7 +225,10 @@
       "properties": {
         "@id": "node/1424829546",
         "amenity": "bicycle_parking",
-        "capacity": "84"
+        "capacity": "84",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -208,7 +244,10 @@
       "properties": {
         "@id": "node/2054080159",
         "amenity": "bicycle_parking",
-        "capacity": "5"
+        "capacity": "5",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -224,7 +263,10 @@
       "properties": {
         "@id": "node/2054080239",
         "amenity": "bicycle_parking",
-        "capacity": "20"
+        "capacity": "20",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -240,7 +282,10 @@
       "properties": {
         "@id": "node/2054080298",
         "amenity": "bicycle_parking",
-        "capacity": "40"
+        "capacity": "40",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -256,7 +301,10 @@
       "properties": {
         "@id": "node/2054080323",
         "amenity": "bicycle_parking",
-        "capacity": "12"
+        "capacity": "12",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -273,7 +321,10 @@
         "@id": "node/2068037260",
         "amenity": "bicycle_parking",
         "capacity": "12",
-        "covered": "yes"
+        "covered": "yes",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -289,7 +340,10 @@
       "properties": {
         "@id": "node/2068037274",
         "amenity": "bicycle_parking",
-        "capacity": "20"
+        "capacity": "20",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -305,7 +359,10 @@
       "properties": {
         "@id": "node/2068037280",
         "amenity": "bicycle_parking",
-        "capacity": "6"
+        "capacity": "6",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -321,7 +378,10 @@
       "properties": {
         "@id": "node/2068037287",
         "amenity": "bicycle_parking",
-        "capacity": "4"
+        "capacity": "4",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -337,7 +397,10 @@
       "properties": {
         "@id": "node/2068037289",
         "amenity": "bicycle_parking",
-        "capacity": "10"
+        "capacity": "10",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -353,7 +416,10 @@
       "properties": {
         "@id": "node/2068037292",
         "amenity": "bicycle_parking",
-        "capacity": "28"
+        "capacity": "28",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -369,7 +435,10 @@
       "properties": {
         "@id": "node/2068037310",
         "amenity": "bicycle_parking",
-        "capacity": "40"
+        "capacity": "40",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -386,7 +455,10 @@
         "@id": "node/2071961578",
         "amenity": "bicycle_parking",
         "capacity": "12",
-        "covered": "yes"
+        "covered": "yes",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -402,7 +474,10 @@
       "properties": {
         "@id": "node/2071961579",
         "amenity": "bicycle_parking",
-        "capacity": "12"
+        "capacity": "12",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -418,7 +493,10 @@
       "properties": {
         "@id": "node/2079483409",
         "amenity": "bicycle_parking",
-        "capacity": "12"
+        "capacity": "12",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -435,7 +513,10 @@
         "@id": "node/2079483423",
         "amenity": "bicycle_parking",
         "capacity": "12",
-        "covered": "yes"
+        "covered": "yes",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -451,7 +532,10 @@
       "properties": {
         "@id": "node/2079483429",
         "amenity": "bicycle_parking",
-        "capacity": "6"
+        "capacity": "6",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -467,7 +551,10 @@
       "properties": {
         "@id": "node/2079483432",
         "amenity": "bicycle_parking",
-        "capacity": "6"
+        "capacity": "6",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -483,7 +570,10 @@
       "properties": {
         "@id": "node/2079483444",
         "amenity": "bicycle_parking",
-        "capacity": "10"
+        "capacity": "10",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -499,7 +589,10 @@
       "properties": {
         "@id": "node/2079483446",
         "amenity": "bicycle_parking",
-        "capacity": "14"
+        "capacity": "14",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -516,7 +609,10 @@
         "@id": "node/2079483447",
         "amenity": "bicycle_parking",
         "capacity": "20",
-        "covered": "yes"
+        "covered": "yes",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -533,7 +629,10 @@
         "@id": "node/2079483450",
         "amenity": "bicycle_parking",
         "capacity": "20",
-        "covered": "yes"
+        "covered": "yes",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -549,7 +648,10 @@
       "properties": {
         "@id": "node/2079483453",
         "amenity": "bicycle_parking",
-        "capacity": "50"
+        "capacity": "50",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -565,7 +667,10 @@
       "properties": {
         "@id": "node/2079483522",
         "amenity": "bicycle_parking",
-        "capacity": "28"
+        "capacity": "28",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -581,7 +686,10 @@
       "properties": {
         "@id": "node/2079483904",
         "amenity": "bicycle_parking",
-        "capacity": "28"
+        "capacity": "28",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -597,7 +705,10 @@
       "properties": {
         "@id": "node/2176385630",
         "amenity": "bicycle_parking",
-        "capacity": "30"
+        "capacity": "30",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -613,7 +724,10 @@
       "properties": {
         "@id": "node/2176385636",
         "amenity": "bicycle_parking",
-        "capacity": "30"
+        "capacity": "30",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -629,7 +743,10 @@
       "properties": {
         "@id": "node/2176385645",
         "amenity": "bicycle_parking",
-        "capacity": "15"
+        "capacity": "15",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -645,7 +762,10 @@
       "properties": {
         "@id": "node/2176385652",
         "amenity": "bicycle_parking",
-        "capacity": "10"
+        "capacity": "10",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -661,7 +781,10 @@
       "properties": {
         "@id": "node/2176427157",
         "amenity": "bicycle_parking",
-        "capacity": "10"
+        "capacity": "10",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -677,7 +800,10 @@
       "properties": {
         "@id": "node/2176427160",
         "amenity": "bicycle_parking",
-        "capacity": "10"
+        "capacity": "10",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -693,7 +819,10 @@
       "properties": {
         "@id": "node/2187815807",
         "amenity": "bicycle_parking",
-        "capacity": "7"
+        "capacity": "7",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -709,7 +838,10 @@
       "properties": {
         "@id": "node/2187815808",
         "amenity": "bicycle_parking",
-        "capacity": "7"
+        "capacity": "7",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -725,7 +857,10 @@
       "properties": {
         "@id": "node/2187815811",
         "amenity": "bicycle_parking",
-        "capacity": "6"
+        "capacity": "6",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -741,7 +876,10 @@
       "properties": {
         "@id": "node/2187815812",
         "amenity": "bicycle_parking",
-        "capacity": "10"
+        "capacity": "10",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -757,7 +895,10 @@
       "properties": {
         "@id": "node/2187815813",
         "amenity": "bicycle_parking",
-        "capacity": "10"
+        "capacity": "10",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -773,7 +914,10 @@
       "properties": {
         "@id": "node/2187815815",
         "amenity": "bicycle_parking",
-        "capacity": "6"
+        "capacity": "6",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -789,7 +933,10 @@
       "properties": {
         "@id": "node/2187815816",
         "amenity": "bicycle_parking",
-        "capacity": "15"
+        "capacity": "15",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -805,7 +952,10 @@
       "properties": {
         "@id": "node/2187815818",
         "amenity": "bicycle_parking",
-        "capacity": "6"
+        "capacity": "6",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -821,7 +971,10 @@
       "properties": {
         "@id": "node/2187817113",
         "amenity": "bicycle_parking",
-        "capacity": "15"
+        "capacity": "15",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -837,7 +990,10 @@
       "properties": {
         "@id": "node/2187822722",
         "amenity": "bicycle_parking",
-        "capacity": "10"
+        "capacity": "10",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -853,7 +1009,10 @@
       "properties": {
         "@id": "node/2187827328",
         "amenity": "bicycle_parking",
-        "capacity": "20"
+        "capacity": "20",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -869,7 +1028,10 @@
       "properties": {
         "@id": "node/2245460609",
         "amenity": "bicycle_parking",
-        "capacity": "8"
+        "capacity": "8",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -885,7 +1047,10 @@
       "properties": {
         "@id": "node/2245460612",
         "amenity": "bicycle_parking",
-        "capacity": "8"
+        "capacity": "8",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -901,7 +1066,10 @@
       "properties": {
         "@id": "node/2245460615",
         "amenity": "bicycle_parking",
-        "capacity": "7"
+        "capacity": "7",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -917,7 +1085,10 @@
       "properties": {
         "@id": "node/2245468305",
         "amenity": "bicycle_parking",
-        "capacity": "8"
+        "capacity": "8",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -933,7 +1104,10 @@
       "properties": {
         "@id": "node/2245478713",
         "amenity": "bicycle_parking",
-        "capacity": "8"
+        "capacity": "8",
+        "marker-color": "#63b6e5",
+        "marker-size": "medium",
+        "marker-symbol": "bicycle"
       },
       "geometry": {
         "type": "Point",
@@ -949,7 +1123,10 @@
       "properties": {
         "@id": "node/2245478714",
         "amenity": "bicycle_parking",
-        "capacity": "16"
+        "capacity": "16",
+        "marker-color": "#63b6e5",
+        "marker-size": "medium",
+        "marker-symbol": "bicycle"
       },
       "geometry": {
         "type": "Point",
@@ -965,7 +1142,10 @@
       "properties": {
         "@id": "node/2245478716",
         "amenity": "bicycle_parking",
-        "capacity": "8"
+        "capacity": "8",
+        "marker-color": "#63b6e5",
+        "marker-size": "medium",
+        "marker-symbol": "bicycle"
       },
       "geometry": {
         "type": "Point",
@@ -981,7 +1161,10 @@
       "properties": {
         "@id": "node/2245491001",
         "amenity": "bicycle_parking",
-        "capacity": "8"
+        "capacity": "8",
+        "marker-color": "#63b6e5",
+        "marker-size": "medium",
+        "marker-symbol": "bicycle"
       },
       "geometry": {
         "type": "Point",
@@ -997,7 +1180,10 @@
       "properties": {
         "@id": "node/2245500419",
         "amenity": "bicycle_parking",
-        "capacity": "10"
+        "capacity": "10",
+        "marker-color": "#63b6e5",
+        "marker-size": "medium",
+        "marker-symbol": "bicycle"
       },
       "geometry": {
         "type": "Point",
@@ -1013,7 +1199,10 @@
       "properties": {
         "@id": "node/2263380335",
         "amenity": "bicycle_parking",
-        "capacity": "20"
+        "capacity": "20",
+        "marker-color": "#63b6e5",
+        "marker-size": "medium",
+        "marker-symbol": "bicycle"
       },
       "geometry": {
         "type": "Point",
@@ -1029,7 +1218,10 @@
       "properties": {
         "@id": "node/2263380336",
         "amenity": "bicycle_parking",
-        "capacity": "10"
+        "capacity": "10",
+        "marker-color": "#63b6e5",
+        "marker-size": "medium",
+        "marker-symbol": "bicycle"
       },
       "geometry": {
         "type": "Point",
@@ -1045,7 +1237,10 @@
       "properties": {
         "@id": "node/2263380343",
         "amenity": "bicycle_parking",
-        "capacity": "8"
+        "capacity": "8",
+        "marker-color": "#63b6e5",
+        "marker-size": "medium",
+        "marker-symbol": "bicycle"
       },
       "geometry": {
         "type": "Point",
@@ -1061,7 +1256,10 @@
       "properties": {
         "@id": "node/2263393146",
         "amenity": "bicycle_parking",
-        "capacity": "10"
+        "capacity": "10",
+        "marker-color": "#63b6e5",
+        "marker-size": "medium",
+        "marker-symbol": "bicycle"
       },
       "geometry": {
         "type": "Point",
@@ -1077,7 +1275,10 @@
       "properties": {
         "@id": "node/2263405993",
         "amenity": "bicycle_parking",
-        "capacity": "5"
+        "capacity": "5",
+        "marker-color": "#63b6e5",
+        "marker-size": "medium",
+        "marker-symbol": "bicycle"
       },
       "geometry": {
         "type": "Point",
@@ -1093,7 +1294,10 @@
       "properties": {
         "@id": "node/2263405996",
         "amenity": "bicycle_parking",
-        "capacity": "8"
+        "capacity": "8",
+        "marker-color": "#63b6e5",
+        "marker-size": "medium",
+        "marker-symbol": "bicycle"
       },
       "geometry": {
         "type": "Point",
@@ -1109,7 +1313,10 @@
       "properties": {
         "@id": "node/2278934314",
         "amenity": "bicycle_parking",
-        "capacity": "15"
+        "capacity": "15",
+        "marker-color": "#63b6e5",
+        "marker-size": "medium",
+        "marker-symbol": "bicycle"
       },
       "geometry": {
         "type": "Point",
@@ -1125,7 +1332,10 @@
       "properties": {
         "@id": "node/2278934315",
         "amenity": "bicycle_parking",
-        "capacity": "8"
+        "capacity": "8",
+        "marker-color": "#63b6e5",
+        "marker-size": "medium",
+        "marker-symbol": "bicycle"
       },
       "geometry": {
         "type": "Point",
@@ -1141,7 +1351,10 @@
       "properties": {
         "@id": "node/2278945879",
         "amenity": "bicycle_parking",
-        "capacity": "16"
+        "capacity": "16",
+        "marker-color": "#63b6e5",
+        "marker-size": "medium",
+        "marker-symbol": "bicycle"
       },
       "geometry": {
         "type": "Point",
@@ -1157,7 +1370,10 @@
       "properties": {
         "@id": "node/2278945881",
         "amenity": "bicycle_parking",
-        "capacity": "8"
+        "capacity": "8",
+        "marker-color": "#63b6e5",
+        "marker-size": "medium",
+        "marker-symbol": "bicycle"
       },
       "geometry": {
         "type": "Point",
@@ -1173,7 +1389,10 @@
       "properties": {
         "@id": "node/2278945884",
         "amenity": "bicycle_parking",
-        "capacity": "8"
+        "capacity": "8",
+        "marker-color": "#63b6e5",
+        "marker-size": "medium",
+        "marker-symbol": "bicycle"
       },
       "geometry": {
         "type": "Point",
@@ -1189,7 +1408,10 @@
       "properties": {
         "@id": "node/2278945890",
         "amenity": "bicycle_parking",
-        "capacity": "8"
+        "capacity": "8",
+        "marker-color": "#63b6e5",
+        "marker-size": "medium",
+        "marker-symbol": "bicycle"
       },
       "geometry": {
         "type": "Point",
@@ -1205,7 +1427,10 @@
       "properties": {
         "@id": "node/2278945896",
         "amenity": "bicycle_parking",
-        "capacity": "8"
+        "capacity": "8",
+        "marker-color": "#63b6e5",
+        "marker-size": "medium",
+        "marker-symbol": "bicycle"
       },
       "geometry": {
         "type": "Point",
@@ -1221,7 +1446,10 @@
       "properties": {
         "@id": "node/2278968057",
         "amenity": "bicycle_parking",
-        "capacity": "10"
+        "capacity": "10",
+        "marker-color": "#63b6e5",
+        "marker-size": "medium",
+        "marker-symbol": "bicycle"
       },
       "geometry": {
         "type": "Point",
@@ -1237,7 +1465,10 @@
       "properties": {
         "@id": "node/2278968058",
         "amenity": "bicycle_parking",
-        "capacity": "20"
+        "capacity": "20",
+        "marker-color": "#63b6e5",
+        "marker-size": "medium",
+        "marker-symbol": "bicycle"
       },
       "geometry": {
         "type": "Point",
@@ -1253,7 +1484,10 @@
       "properties": {
         "@id": "node/2278968064",
         "amenity": "bicycle_parking",
-        "capacity": "10"
+        "capacity": "10",
+        "marker-color": "#63b6e5",
+        "marker-size": "medium",
+        "marker-symbol": "bicycle"
       },
       "geometry": {
         "type": "Point",
@@ -1269,7 +1503,10 @@
       "properties": {
         "@id": "node/2278968437",
         "amenity": "bicycle_parking",
-        "capacity": "8"
+        "capacity": "8",
+        "marker-color": "#63b6e5",
+        "marker-size": "medium",
+        "marker-symbol": "bicycle"
       },
       "geometry": {
         "type": "Point",
@@ -1285,7 +1522,10 @@
       "properties": {
         "@id": "node/2278968443",
         "amenity": "bicycle_parking",
-        "capacity": "8"
+        "capacity": "8",
+        "marker-color": "#63b6e5",
+        "marker-size": "medium",
+        "marker-symbol": "bicycle"
       },
       "geometry": {
         "type": "Point",
@@ -1301,7 +1541,10 @@
       "properties": {
         "@id": "node/2289747458",
         "amenity": "bicycle_parking",
-        "capacity": "8"
+        "capacity": "8",
+        "marker-color": "#63b6e5",
+        "marker-size": "medium",
+        "marker-symbol": "bicycle"
       },
       "geometry": {
         "type": "Point",
@@ -1317,7 +1560,10 @@
       "properties": {
         "@id": "node/2289747460",
         "amenity": "bicycle_parking",
-        "capacity": "8"
+        "capacity": "8",
+        "marker-color": "#63b6e5",
+        "marker-size": "medium",
+        "marker-symbol": "bicycle"
       },
       "geometry": {
         "type": "Point",
@@ -1333,7 +1579,10 @@
       "properties": {
         "@id": "node/2297644884",
         "amenity": "bicycle_parking",
-        "capacity": "30"
+        "capacity": "30",
+        "marker-color": "#63b6e5",
+        "marker-size": "medium",
+        "marker-symbol": "bicycle"
       },
       "geometry": {
         "type": "Point",
@@ -1349,7 +1598,10 @@
       "properties": {
         "@id": "node/2297644887",
         "amenity": "bicycle_parking",
-        "capacity": "15"
+        "capacity": "15",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -1365,7 +1617,10 @@
       "properties": {
         "@id": "node/2297644889",
         "amenity": "bicycle_parking",
-        "capacity": "20"
+        "capacity": "20",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -1381,7 +1636,10 @@
       "properties": {
         "@id": "node/2297644890",
         "amenity": "bicycle_parking",
-        "capacity": "10"
+        "capacity": "10",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -1397,7 +1655,10 @@
       "properties": {
         "@id": "node/2306993582",
         "amenity": "bicycle_parking",
-        "capacity": "30"
+        "capacity": "30",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -1413,7 +1674,10 @@
       "properties": {
         "@id": "node/2306993589",
         "amenity": "bicycle_parking",
-        "capacity": "10"
+        "capacity": "10",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -1429,7 +1693,10 @@
       "properties": {
         "@id": "node/2306993605",
         "amenity": "bicycle_parking",
-        "capacity": "10"
+        "capacity": "10",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -1445,7 +1712,10 @@
       "properties": {
         "@id": "node/2306996966",
         "amenity": "bicycle_parking",
-        "capacity": "50"
+        "capacity": "50",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -1461,7 +1731,10 @@
       "properties": {
         "@id": "node/2386609915",
         "amenity": "bicycle_parking",
-        "capacity": "10"
+        "capacity": "10",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -1477,7 +1750,10 @@
       "properties": {
         "@id": "node/2386609916",
         "amenity": "bicycle_parking",
-        "capacity": "72"
+        "capacity": "72",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -1493,7 +1769,10 @@
       "properties": {
         "@id": "node/2386609922",
         "amenity": "bicycle_parking",
-        "capacity": "76"
+        "capacity": "76",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -1509,7 +1788,10 @@
       "properties": {
         "@id": "node/2386615848",
         "amenity": "bicycle_parking",
-        "capacity": "6"
+        "capacity": "6",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -1525,7 +1807,10 @@
       "properties": {
         "@id": "node/2386615849",
         "amenity": "bicycle_parking",
-        "capacity": "10"
+        "capacity": "10",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -1541,7 +1826,10 @@
       "properties": {
         "@id": "node/2386616971",
         "amenity": "bicycle_parking",
-        "capacity": "64"
+        "capacity": "64",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -1557,7 +1845,10 @@
       "properties": {
         "@id": "node/2386616972",
         "amenity": "bicycle_parking",
-        "capacity": "12"
+        "capacity": "12",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -1573,7 +1864,10 @@
       "properties": {
         "@id": "node/2386621785",
         "amenity": "bicycle_parking",
-        "capacity": "10"
+        "capacity": "10",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -1589,7 +1883,10 @@
       "properties": {
         "@id": "node/2386621786",
         "amenity": "bicycle_parking",
-        "capacity": "7"
+        "capacity": "7",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -1605,7 +1902,10 @@
       "properties": {
         "@id": "node/2386621787",
         "amenity": "bicycle_parking",
-        "capacity": "42"
+        "capacity": "42",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -1621,7 +1921,10 @@
       "properties": {
         "@id": "node/2386621788",
         "amenity": "bicycle_parking",
-        "capacity": "14"
+        "capacity": "14",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -1637,7 +1940,10 @@
       "properties": {
         "@id": "node/2386621789",
         "amenity": "bicycle_parking",
-        "capacity": "14"
+        "capacity": "14",
+        "marker-size": "medium",
+        "marker-symbol": "bicycle",
+        "marker-color": "#63b6e5"
       },
       "geometry": {
         "type": "Point",
@@ -1653,7 +1959,10 @@
       "properties": {
         "@id": "node/2386621790",
         "amenity": "bicycle_parking",
-        "capacity": "20"
+        "capacity": "20",
+        "marker-size": "medium",
+        "marker-symbol": "bicycle",
+        "marker-color": "#63b6e5"
       },
       "geometry": {
         "type": "Point",
@@ -1669,7 +1978,10 @@
       "properties": {
         "@id": "node/2386621791",
         "amenity": "bicycle_parking",
-        "capacity": "6"
+        "capacity": "6",
+        "marker-size": "medium",
+        "marker-symbol": "bicycle",
+        "marker-color": "#63b6e5"
       },
       "geometry": {
         "type": "Point",
@@ -1685,7 +1997,10 @@
       "properties": {
         "@id": "node/2411318151",
         "amenity": "bicycle_parking",
-        "capacity": "24"
+        "capacity": "24",
+        "marker-size": "medium",
+        "marker-symbol": "bicycle",
+        "marker-color": "#63b6e5"
       },
       "geometry": {
         "type": "Point",
@@ -1701,7 +2016,10 @@
       "properties": {
         "@id": "node/2411318156",
         "amenity": "bicycle_parking",
-        "capacity": "8"
+        "capacity": "8",
+        "marker-size": "medium",
+        "marker-symbol": "bicycle",
+        "marker-color": "#63b6e5"
       },
       "geometry": {
         "type": "Point",
@@ -1717,7 +2035,10 @@
       "properties": {
         "@id": "node/2411318160",
         "amenity": "bicycle_parking",
-        "capacity": "28"
+        "capacity": "28",
+        "marker-size": "medium",
+        "marker-symbol": "bicycle",
+        "marker-color": "#63b6e5"
       },
       "geometry": {
         "type": "Point",
@@ -1733,7 +2054,10 @@
       "properties": {
         "@id": "node/2411318163",
         "amenity": "bicycle_parking",
-        "capacity": "12"
+        "capacity": "12",
+        "marker-size": "medium",
+        "marker-symbol": "bicycle",
+        "marker-color": "#63b6e5"
       },
       "geometry": {
         "type": "Point",
@@ -1749,7 +2073,10 @@
       "properties": {
         "@id": "node/2411318176",
         "amenity": "bicycle_parking",
-        "capacity": "12"
+        "capacity": "12",
+        "marker-size": "medium",
+        "marker-symbol": "bicycle",
+        "marker-color": "#63b6e5"
       },
       "geometry": {
         "type": "Point",
@@ -1764,7 +2091,10 @@
       "id": "node/2765701321",
       "properties": {
         "@id": "node/2765701321",
-        "amenity": "bicycle_parking"
+        "amenity": "bicycle_parking",
+        "marker-size": "medium",
+        "marker-symbol": "bicycle",
+        "marker-color": "#63b6e5"
       },
       "geometry": {
         "type": "Point",
@@ -1779,7 +2109,10 @@
       "id": "node/2765701323",
       "properties": {
         "@id": "node/2765701323",
-        "amenity": "bicycle_parking"
+        "amenity": "bicycle_parking",
+        "marker-size": "medium",
+        "marker-symbol": "bicycle",
+        "marker-color": "#63b6e5"
       },
       "geometry": {
         "type": "Point",
@@ -1794,7 +2127,10 @@
       "id": "node/2765701325",
       "properties": {
         "@id": "node/2765701325",
-        "amenity": "bicycle_parking"
+        "amenity": "bicycle_parking",
+        "marker-size": "medium",
+        "marker-symbol": "bicycle",
+        "marker-color": "#63b6e5"
       },
       "geometry": {
         "type": "Point",
@@ -1809,7 +2145,10 @@
       "id": "node/2765701328",
       "properties": {
         "@id": "node/2765701328",
-        "amenity": "bicycle_parking"
+        "amenity": "bicycle_parking",
+        "marker-size": "medium",
+        "marker-symbol": "bicycle",
+        "marker-color": "#63b6e5"
       },
       "geometry": {
         "type": "Point",
@@ -1824,7 +2163,10 @@
       "id": "node/2765701330",
       "properties": {
         "@id": "node/2765701330",
-        "amenity": "bicycle_parking"
+        "amenity": "bicycle_parking",
+        "marker-size": "medium",
+        "marker-symbol": "bicycle",
+        "marker-color": "#63b6e5"
       },
       "geometry": {
         "type": "Point",
@@ -1839,7 +2181,10 @@
       "id": "node/2765701332",
       "properties": {
         "@id": "node/2765701332",
-        "amenity": "bicycle_parking"
+        "amenity": "bicycle_parking",
+        "marker-size": "medium",
+        "marker-symbol": "bicycle",
+        "marker-color": "#63b6e5"
       },
       "geometry": {
         "type": "Point",
@@ -1854,7 +2199,10 @@
       "id": "node/2765701334",
       "properties": {
         "@id": "node/2765701334",
-        "amenity": "bicycle_parking"
+        "amenity": "bicycle_parking",
+        "marker-size": "medium",
+        "marker-symbol": "bicycle",
+        "marker-color": "#63b6e5"
       },
       "geometry": {
         "type": "Point",
@@ -1869,7 +2217,10 @@
       "id": "node/2765701336",
       "properties": {
         "@id": "node/2765701336",
-        "amenity": "bicycle_parking"
+        "amenity": "bicycle_parking",
+        "marker-size": "medium",
+        "marker-symbol": "bicycle",
+        "marker-color": "#63b6e5"
       },
       "geometry": {
         "type": "Point",
@@ -1884,7 +2235,10 @@
       "id": "node/2765701339",
       "properties": {
         "@id": "node/2765701339",
-        "amenity": "bicycle_parking"
+        "amenity": "bicycle_parking",
+        "marker-size": "medium",
+        "marker-symbol": "bicycle",
+        "marker-color": "#63b6e5"
       },
       "geometry": {
         "type": "Point",
@@ -1899,7 +2253,10 @@
       "id": "node/2765701341",
       "properties": {
         "@id": "node/2765701341",
-        "amenity": "bicycle_parking"
+        "amenity": "bicycle_parking",
+        "marker-size": "medium",
+        "marker-symbol": "bicycle",
+        "marker-color": "#63b6e5"
       },
       "geometry": {
         "type": "Point",
@@ -1914,7 +2271,10 @@
       "id": "node/2765701343",
       "properties": {
         "@id": "node/2765701343",
-        "amenity": "bicycle_parking"
+        "amenity": "bicycle_parking",
+        "marker-size": "medium",
+        "marker-symbol": "bicycle",
+        "marker-color": "#63b6e5"
       },
       "geometry": {
         "type": "Point",
@@ -1929,7 +2289,10 @@
       "id": "node/2765701345",
       "properties": {
         "@id": "node/2765701345",
-        "amenity": "bicycle_parking"
+        "amenity": "bicycle_parking",
+        "marker-size": "medium",
+        "marker-symbol": "bicycle",
+        "marker-color": "#63b6e5"
       },
       "geometry": {
         "type": "Point",
@@ -1944,7 +2307,10 @@
       "id": "node/2765701347",
       "properties": {
         "@id": "node/2765701347",
-        "amenity": "bicycle_parking"
+        "amenity": "bicycle_parking",
+        "marker-size": "medium",
+        "marker-symbol": "bicycle",
+        "marker-color": "#63b6e5"
       },
       "geometry": {
         "type": "Point",
@@ -1959,7 +2325,10 @@
       "id": "node/2765701348",
       "properties": {
         "@id": "node/2765701348",
-        "amenity": "bicycle_parking"
+        "amenity": "bicycle_parking",
+        "marker-size": "medium",
+        "marker-symbol": "bicycle",
+        "marker-color": "#63b6e5"
       },
       "geometry": {
         "type": "Point",
@@ -1974,7 +2343,10 @@
       "id": "node/2765701350",
       "properties": {
         "@id": "node/2765701350",
-        "amenity": "bicycle_parking"
+        "amenity": "bicycle_parking",
+        "marker-size": "medium",
+        "marker-symbol": "bicycle",
+        "marker-color": "#63b6e5"
       },
       "geometry": {
         "type": "Point",
@@ -1989,7 +2361,10 @@
       "id": "node/2765701353",
       "properties": {
         "@id": "node/2765701353",
-        "amenity": "bicycle_parking"
+        "amenity": "bicycle_parking",
+        "marker-size": "medium",
+        "marker-symbol": "bicycle",
+        "marker-color": "#63b6e5"
       },
       "geometry": {
         "type": "Point",
@@ -2004,7 +2379,10 @@
       "id": "node/2765701355",
       "properties": {
         "@id": "node/2765701355",
-        "amenity": "bicycle_parking"
+        "amenity": "bicycle_parking",
+        "marker-size": "medium",
+        "marker-symbol": "bicycle",
+        "marker-color": "#63b6e5"
       },
       "geometry": {
         "type": "Point",
@@ -2019,7 +2397,10 @@
       "id": "node/2765701356",
       "properties": {
         "@id": "node/2765701356",
-        "amenity": "bicycle_parking"
+        "amenity": "bicycle_parking",
+        "marker-size": "medium",
+        "marker-symbol": "bicycle",
+        "marker-color": "#63b6e5"
       },
       "geometry": {
         "type": "Point",
@@ -2034,7 +2415,10 @@
       "id": "node/2765701360",
       "properties": {
         "@id": "node/2765701360",
-        "amenity": "bicycle_parking"
+        "amenity": "bicycle_parking",
+        "marker-size": "medium",
+        "marker-symbol": "bicycle",
+        "marker-color": "#63b6e5"
       },
       "geometry": {
         "type": "Point",
@@ -2049,7 +2433,10 @@
       "id": "node/2765701362",
       "properties": {
         "@id": "node/2765701362",
-        "amenity": "bicycle_parking"
+        "amenity": "bicycle_parking",
+        "marker-size": "medium",
+        "marker-symbol": "bicycle",
+        "marker-color": "#63b6e5"
       },
       "geometry": {
         "type": "Point",
@@ -2064,7 +2451,10 @@
       "id": "node/2765701364",
       "properties": {
         "@id": "node/2765701364",
-        "amenity": "bicycle_parking"
+        "amenity": "bicycle_parking",
+        "marker-size": "medium",
+        "marker-symbol": "bicycle",
+        "marker-color": "#63b6e5"
       },
       "geometry": {
         "type": "Point",
@@ -2079,7 +2469,10 @@
       "id": "node/2765701366",
       "properties": {
         "@id": "node/2765701366",
-        "amenity": "bicycle_parking"
+        "amenity": "bicycle_parking",
+        "marker-size": "medium",
+        "marker-symbol": "bicycle",
+        "marker-color": "#63b6e5"
       },
       "geometry": {
         "type": "Point",
@@ -2094,7 +2487,10 @@
       "id": "node/2765701368",
       "properties": {
         "@id": "node/2765701368",
-        "amenity": "bicycle_parking"
+        "amenity": "bicycle_parking",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -2109,7 +2505,10 @@
       "id": "node/2765701370",
       "properties": {
         "@id": "node/2765701370",
-        "amenity": "bicycle_parking"
+        "amenity": "bicycle_parking",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -2124,7 +2523,10 @@
       "id": "node/2765701372",
       "properties": {
         "@id": "node/2765701372",
-        "amenity": "bicycle_parking"
+        "amenity": "bicycle_parking",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -2139,7 +2541,10 @@
       "id": "node/2765701374",
       "properties": {
         "@id": "node/2765701374",
-        "amenity": "bicycle_parking"
+        "amenity": "bicycle_parking",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -2154,7 +2559,10 @@
       "id": "node/2765701381",
       "properties": {
         "@id": "node/2765701381",
-        "amenity": "bicycle_parking"
+        "amenity": "bicycle_parking",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -2169,7 +2577,10 @@
       "id": "node/2765701382",
       "properties": {
         "@id": "node/2765701382",
-        "amenity": "bicycle_parking"
+        "amenity": "bicycle_parking",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -2184,7 +2595,10 @@
       "id": "node/2765701383",
       "properties": {
         "@id": "node/2765701383",
-        "amenity": "bicycle_parking"
+        "amenity": "bicycle_parking",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -2199,7 +2613,10 @@
       "id": "node/2765701385",
       "properties": {
         "@id": "node/2765701385",
-        "amenity": "bicycle_parking"
+        "amenity": "bicycle_parking",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -2214,7 +2631,10 @@
       "id": "node/2765701386",
       "properties": {
         "@id": "node/2765701386",
-        "amenity": "bicycle_parking"
+        "amenity": "bicycle_parking",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -2229,7 +2649,10 @@
       "id": "node/2765701387",
       "properties": {
         "@id": "node/2765701387",
-        "amenity": "bicycle_parking"
+        "amenity": "bicycle_parking",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -2244,7 +2667,10 @@
       "id": "node/2765701388",
       "properties": {
         "@id": "node/2765701388",
-        "amenity": "bicycle_parking"
+        "amenity": "bicycle_parking",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -2259,7 +2685,10 @@
       "id": "node/2765701389",
       "properties": {
         "@id": "node/2765701389",
-        "amenity": "bicycle_parking"
+        "amenity": "bicycle_parking",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -2274,7 +2703,10 @@
       "id": "node/2765701390",
       "properties": {
         "@id": "node/2765701390",
-        "amenity": "bicycle_parking"
+        "amenity": "bicycle_parking",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -2289,7 +2721,10 @@
       "id": "node/2765701391",
       "properties": {
         "@id": "node/2765701391",
-        "amenity": "bicycle_parking"
+        "amenity": "bicycle_parking",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -2304,7 +2739,10 @@
       "id": "node/2765701393",
       "properties": {
         "@id": "node/2765701393",
-        "amenity": "bicycle_parking"
+        "amenity": "bicycle_parking",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -2319,7 +2757,10 @@
       "id": "node/2765701394",
       "properties": {
         "@id": "node/2765701394",
-        "amenity": "bicycle_parking"
+        "amenity": "bicycle_parking",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -2334,7 +2775,10 @@
       "id": "node/2765701395",
       "properties": {
         "@id": "node/2765701395",
-        "amenity": "bicycle_parking"
+        "amenity": "bicycle_parking",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -2349,7 +2793,10 @@
       "id": "node/2765701396",
       "properties": {
         "@id": "node/2765701396",
-        "amenity": "bicycle_parking"
+        "amenity": "bicycle_parking",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -2364,7 +2811,10 @@
       "id": "node/2765701397",
       "properties": {
         "@id": "node/2765701397",
-        "amenity": "bicycle_parking"
+        "amenity": "bicycle_parking",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -2379,7 +2829,10 @@
       "id": "node/2765701398",
       "properties": {
         "@id": "node/2765701398",
-        "amenity": "bicycle_parking"
+        "amenity": "bicycle_parking",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -2394,7 +2847,10 @@
       "id": "node/2765701400",
       "properties": {
         "@id": "node/2765701400",
-        "amenity": "bicycle_parking"
+        "amenity": "bicycle_parking",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -2409,7 +2865,10 @@
       "id": "node/2765701401",
       "properties": {
         "@id": "node/2765701401",
-        "amenity": "bicycle_parking"
+        "amenity": "bicycle_parking",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -2424,7 +2883,10 @@
       "id": "node/2765701402",
       "properties": {
         "@id": "node/2765701402",
-        "amenity": "bicycle_parking"
+        "amenity": "bicycle_parking",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -2439,7 +2901,10 @@
       "id": "node/2765701403",
       "properties": {
         "@id": "node/2765701403",
-        "amenity": "bicycle_parking"
+        "amenity": "bicycle_parking",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -2454,7 +2919,10 @@
       "id": "node/2765701404",
       "properties": {
         "@id": "node/2765701404",
-        "amenity": "bicycle_parking"
+        "amenity": "bicycle_parking",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -2469,7 +2937,10 @@
       "id": "node/2765701405",
       "properties": {
         "@id": "node/2765701405",
-        "amenity": "bicycle_parking"
+        "amenity": "bicycle_parking",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -2484,7 +2955,10 @@
       "id": "node/2765701406",
       "properties": {
         "@id": "node/2765701406",
-        "amenity": "bicycle_parking"
+        "amenity": "bicycle_parking",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -2499,7 +2973,10 @@
       "id": "node/2765701407",
       "properties": {
         "@id": "node/2765701407",
-        "amenity": "bicycle_parking"
+        "amenity": "bicycle_parking",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -2514,7 +2991,10 @@
       "id": "node/2765701409",
       "properties": {
         "@id": "node/2765701409",
-        "amenity": "bicycle_parking"
+        "amenity": "bicycle_parking",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -2529,7 +3009,10 @@
       "id": "node/2765701410",
       "properties": {
         "@id": "node/2765701410",
-        "amenity": "bicycle_parking"
+        "amenity": "bicycle_parking",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -2544,7 +3027,10 @@
       "id": "node/2765701411",
       "properties": {
         "@id": "node/2765701411",
-        "amenity": "bicycle_parking"
+        "amenity": "bicycle_parking",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -2559,7 +3045,10 @@
       "id": "node/2765701412",
       "properties": {
         "@id": "node/2765701412",
-        "amenity": "bicycle_parking"
+        "amenity": "bicycle_parking",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -2574,7 +3063,10 @@
       "id": "node/2765701413",
       "properties": {
         "@id": "node/2765701413",
-        "amenity": "bicycle_parking"
+        "amenity": "bicycle_parking",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -2589,7 +3081,10 @@
       "id": "node/2765701414",
       "properties": {
         "@id": "node/2765701414",
-        "amenity": "bicycle_parking"
+        "amenity": "bicycle_parking",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -2604,7 +3099,10 @@
       "id": "node/2765701416",
       "properties": {
         "@id": "node/2765701416",
-        "amenity": "bicycle_parking"
+        "amenity": "bicycle_parking",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -2619,7 +3117,10 @@
       "id": "node/2765701417",
       "properties": {
         "@id": "node/2765701417",
-        "amenity": "bicycle_parking"
+        "amenity": "bicycle_parking",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -2634,7 +3135,10 @@
       "id": "node/2765701418",
       "properties": {
         "@id": "node/2765701418",
-        "amenity": "bicycle_parking"
+        "amenity": "bicycle_parking",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -2649,7 +3153,10 @@
       "id": "node/2765701419",
       "properties": {
         "@id": "node/2765701419",
-        "amenity": "bicycle_parking"
+        "amenity": "bicycle_parking",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -2664,7 +3171,10 @@
       "id": "node/2765701420",
       "properties": {
         "@id": "node/2765701420",
-        "amenity": "bicycle_parking"
+        "amenity": "bicycle_parking",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
@@ -2679,7 +3189,10 @@
       "id": "node/2765701421",
       "properties": {
         "@id": "node/2765701421",
-        "amenity": "bicycle_parking"
+        "amenity": "bicycle_parking",
+        "marker-color": "#63b6e5",
+        "marker-symbol": "bicycle",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
