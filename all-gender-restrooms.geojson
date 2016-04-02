@@ -10,6 +10,8 @@
       "properties": {
         "@id": "node/1951294257",
         "amenity": "toilets",
+		"title": "Cook House 100B",
+		"description": "Cook House 100B",
         "name": "Cook House 100B",
         "unisex": "yes",
         "wheelchair": "yes"
@@ -28,6 +30,8 @@
       "properties": {
         "@id": "node/1951346759",
         "amenity": "toilets",
+		"title": "Carriage House 112A",
+		"description": "Carriage House 112A",
         "female": "yes",
         "male": "yes",
         "name": "Carriage House 112A",
@@ -48,6 +52,8 @@
       "properties": {
         "@id": "node/1951346767",
         "amenity": "toilets",
+		"title": "",
+		"description": "",
         "unisex": "yes",
         "wheelchair": "yes"
       },
@@ -65,6 +71,8 @@
       "properties": {
         "@id": "node/1951346783",
         "amenity": "toilets",
+		"title": "",
+		"description": "",
         "unisex": "yes",
         "wheelchair": "yes"
       },
@@ -82,6 +90,8 @@
       "properties": {
         "@id": "node/1951346799",
         "amenity": "toilets",
+		"title": "",
+		"description": "",
         "unisex": "yes"
       },
       "geometry": {
@@ -98,6 +108,8 @@
       "properties": {
         "@id": "node/1951346844",
         "amenity": "toilets",
+		"title": "",
+		"description": "",
         "unisex": "yes",
         "wheelchair": "yes"
       },
@@ -115,6 +127,8 @@
       "properties": {
         "@id": "node/2046990322",
         "amenity": "toilets",
+		"title": "",
+		"description": "",
         "level": "1",
         "unisex": "yes",
         "wheelchair": "limited"
@@ -133,6 +147,8 @@
       "properties": {
         "@id": "node/2047602472",
         "amenity": "toilets",
+		"title": "",
+		"description": "",
         "unisex": "yes",
         "wheelchair": "limited"
       },
@@ -150,6 +166,8 @@
       "properties": {
         "@id": "node/2047623290",
         "amenity": "toilets",
+		"title": "",
+		"description": "",
         "description": "twisty faucet",
         "level": "0",
         "unisex": "yes",
@@ -169,6 +187,8 @@
       "properties": {
         "@id": "node/2047660198",
         "amenity": "toilets",
+		"title": "",
+		"description": "",
         "description": "door 27.5\" wide, no handicap button",
         "level": "2",
         "unisex": "yes",
@@ -188,6 +208,8 @@
       "properties": {
         "@id": "node/2050530492",
         "amenity": "toilets",
+		"title": "",
+		"description": "",
         "level": "1",
         "unisex": "yes",
         "wheelchair": "yes"
@@ -206,6 +228,8 @@
       "properties": {
         "@id": "node/2050552918",
         "amenity": "toilets",
+		"title": "",
+		"description": "",
         "level": "1",
         "name": "Kolchiyama",
         "unisex": "yes",
@@ -225,6 +249,8 @@
       "properties": {
         "@id": "node/2050553030",
         "amenity": "toilets",
+		"title": "",
+		"description": "",
         "level": "1",
         "name": "Buloson",
         "unisex": "yes",
@@ -244,6 +270,8 @@
       "properties": {
         "@id": "node/2050553050",
         "amenity": "toilets",
+		"title": "",
+		"description": "",
         "level": "1",
         "name": "Lorde-Studds",
         "unisex": "yes",
@@ -263,6 +291,8 @@
       "properties": {
         "@id": "node/2050558484",
         "amenity": "toilets",
+		"title": "",
+		"description": "",
         "level": "0",
         "unisex": "yes",
         "wheelchair": "yes"
@@ -281,6 +311,8 @@
       "properties": {
         "@id": "node/2050564412",
         "amenity": "toilets",
+		"title": "",
+		"description": "",
         "unisex": "yes",
         "wheelchair": "yes"
       },
@@ -298,6 +330,8 @@
       "properties": {
         "@id": "node/2052353606",
         "amenity": "toilets",
+		"title": "",
+		"description": "",
         "unisex": "yes",
         "wheelchair": "yes"
       },
@@ -315,6 +349,8 @@
       "properties": {
         "@id": "node/2052464358",
         "amenity": "toilets",
+		"title": "",
+		"description": "",
         "unisex": "yes",
         "wheelchair": "yes"
       },
@@ -332,6 +368,8 @@
       "properties": {
         "@id": "node/2053273557",
         "amenity": "toilets",
+		"title": "Emergency Response Center 109",
+		"description": "Emergency Response Center 109",
         "name": "Emergency Response Center 109",
         "unisex": "yes",
         "wheelchair": "yes"
@@ -350,6 +388,8 @@
       "properties": {
         "@id": "node/2053328005",
         "amenity": "toilets",
+		"title": "",
+		"description": "",
         "unisex": "yes",
         "wheelchair": "yes"
       },
@@ -367,6 +407,8 @@
       "properties": {
         "@id": "node/2053349300",
         "amenity": "toilets",
+		"title": "Cook House 100C",
+		"description": "Cook House 100C",
         "name": "Cook House 100C",
         "unisex": "yes",
         "wheelchair": "yes"
@@ -386,6 +428,8 @@
         "@id": "node/2053533297",
         "access": "private",
         "amenity": "toilets",
+		"title": "",
+		"description": "",
         "unisex": "yes",
         "wheelchair": "yes"
       },
@@ -403,6 +447,8 @@
       "properties": {
         "@id": "node/2053671145",
         "amenity": "toilets",
+		"title": "",
+		"description": "",
         "unisex": "yes",
         "wheelchair": "yes"
       },
@@ -420,6 +466,8 @@
       "properties": {
         "@id": "node/4075823815",
         "amenity": "toilets",
+		"title": "Emergency Response Center 111",
+		"description": "Emergency Response Center 111",
         "name": "Emergency Response Center 111",
         "unisex": "yes"
       },
@@ -437,6 +485,8 @@
       "properties": {
         "@id": "node/4075829246",
         "amenity": "toilets",
+		"title": "Cardiff House Women's Center 109",
+		"description": "Cardiff House Women's Center 109",
         "name": "Cardiff House Women's Center 109",
         "unisex": "yes"
       },
