@@ -124,6 +124,7 @@ This resulting data file is equivalent to what you'd copy/paste out of the web i
     },
     ```
 
+
 # Workflow
 So far, we're able to create a query and return geoJSON results. The data coming out of Overpass turbo does not usually have properties for title and description. Title and description fields are manadatory for a marker to have a tooltip popup in LeafletJS. If we load the geoJSON file into geojson.io, we can edit and add title, description and marker styling. Saving this editd file depends on our intent. That's not always a fast process.
 
