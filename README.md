@@ -90,7 +90,7 @@ out skel qt;
 
 Using the node module query-overpass, we can now run a query and save the output to a local file. Assuming we saved the code above as all-gender-public-restrooms.ql, we could execute the following command.
 
-```query-overpass all-gender-public-restrooms.ql > final-all-gender-public-restrooms.geojson```
+```$ query-overpass all-gender-public-restrooms.ql > final-all-gender-public-restrooms.geojson```
 
 This resulting data file is equivalent to what you'd copy/paste out of the web interface on Overpass turbo.
 
