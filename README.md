@@ -92,5 +92,5 @@ Using the node module query-overpass, we can now run a query and save the output
 
 ```$ query-overpass all-gender-public-restrooms.ql > final-all-gender-public-restrooms.geojson```
 
-This resulting data file is equivalent to what you'd copy/paste out of the web interface on Overpass turbo.
+This resulting data file is equivalent to what you'd copy/paste out of the web interface on Overpass turbo. From here we would setup some type frequncy for a cron job. Probably once a day or week would be sufficient to keep up with changes.
 
