@@ -124,3 +124,9 @@ This resulting data file is equivalent to what you'd copy/paste out of the web i
     },
     ```
 
+# Workflow
+So far, we're able to create a query and return geoJSON results. The data coming out of Overpass turbo does not usually have properties for title and description. If we load the geoJSON file into geojson.io, we can edit and add title, description and marker styling. Saving this editd file depends on our intent. 
+
+If we just want to read the geoJSON file into a leaflet template, we can. If we want to save our title, description and marker info back into OSM, we need to figure out how to manage an OSM changeset.
+
+Assuming that for a campus mapping project we'd want to rerun the queries daily, we'd want to save as much data back into OSM as we can so that we don't have the geojson.io editing step each time we run the query.
