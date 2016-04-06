@@ -60,7 +60,7 @@ out skel qt;
 Once the data is returned, you'll want to export it (not just copy the data link). Why? Exporting can give you the geojson format. Copying the data just gives you json. Different but significant; ymmv.
 
 # Automating and Refreshing via Query
-Overpass turob has the ability to show you your query in multiple formats. In the code below, I've saved the all-gender-public-restrooms in geoJSON format. I can then execute a cron job that periodically queries the Overpass turbo server for any new or modifided restrooms.
+Overpass turob has the ability to show you your query in multiple formats. In the code below, I've saved the all-gender-public-restrooms query in OverpassQL format. We can run a cron job that periodically queries the Overpass turbo server for any new or modifided restrooms.
 
 ```
 [out:json]
@@ -88,9 +88,39 @@ out body;
 out skel qt;
 ```
 
-Using the node module query-overpass, we can now run a query and save the output to a local file. Assuming we saved the code above as all-gender-public-restrooms.ql, we could execute the following command.
+Assuming we saved the code above as all-gender-public-restrooms.ql, we could execute the following command and save the output to a local file.
 
 ```$ query-overpass all-gender-public-restrooms.ql > final-all-gender-public-restrooms.geojson```
 
 This resulting data file is equivalent to what you'd copy/paste out of the web interface on Overpass turbo. From here we would setup some type frequncy for a cron job. Probably once a day or week would be sufficient to keep up with changes.
+
+```
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/1951346733",
+      "properties": {
+        "type": "node",
+        "id": 1951346733,
+        "tags": {
+          "access": "yes",
+          "amenity": "toilets",
+          "name": "Communications 124B",
+          "unisex": "yes",
+          "wheelchair": "yes"
+        },
+        "relations": [],
+        "meta": {}
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0612313,
+          37.0009284
+        ]
+      }
+    },
+    ```
 
