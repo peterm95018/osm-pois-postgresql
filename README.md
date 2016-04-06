@@ -131,10 +131,11 @@ So far, we're able to create a query and return geoJSON results. The data coming
 If we just want to read the geoJSON file into a leaflet template, we can. We can't easily import this edited data into OSM. So, we need to tune these steps a bit further so we can have a repeatable and hopefully automated process.
 
 #Workflow v2
-- Query Overpass turbo for CSV data
+- Query Overpass turbo for geoJSON data
+- convert geoJSON to CSV using node module geojson2csv
 - Load CSV data into prepopulated template w/headers
 - copy name column to title column (for popup)
 - figure out a default value for description or copy name to description
 - save the edited CSV file
-- convert it to geoJSON (csv2geojson)
-- save converted file to web server and github.
+- convert the CSV data file geoJSON (csv2geojson)
+- save converted file to web server and github
