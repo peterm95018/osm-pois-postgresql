@@ -1,0 +1,10 @@
+#!/bin/bash
+
+# get a fresh copy of UCSC OSM data
+# bounding box covers most campus buildings
+
+date_formatted=$(date +%m_%d_%y-%H.%M.%S)
+
+ucsc_url=("http://overpass-api.de/api/map?bbox=-122.0768,36.9760,-122.0485,37.0184")
+
+wget -O ucsc-osm-$date_formatted  $ucsc_url
