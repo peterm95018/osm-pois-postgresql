@@ -1,4 +1,4 @@
-# osm-pois
+# OpenStreetMap - Points of Interest
 OSM maps and geojson datasets of Points of Interest
 
 To extract POI data out of OpenStreetMap, the best tool to use is http://overpass-turbo.eu. 
