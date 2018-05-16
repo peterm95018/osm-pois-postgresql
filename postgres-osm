@@ -31,3 +31,4 @@ Osm2pgsql took 1s overall
 With the data loaded, you can use a PG client on your workstation to make a connection to the database to query for various record sets. The resulting dataset can be used with your project as an input to styling data, changing or overriding, etc.
 
 https://wiki.openstreetmap.org/wiki/PostgreSQL
+
