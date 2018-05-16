@@ -60,7 +60,7 @@ out skel qt;
 Once the data is returned, you'll want to export it (not just copy the data link). Why? Exporting can give you the geojson format. Copying the data just gives you json. Different but significant; ymmv.
 
 # Automating Data Pulls
-[edited 051618- see link https://github.com/peterm95018/osm-pois/blob/master/postgres-osm for more info on the Nebula VM]
+[edited 051618- see link https://github.com/peterm95018/osm-pois-postgresql/blob/master/postgres-osm-server.md for more info on the Nebula VM]
 
 On the host, postgres-osm (128.114.97.209), we have a shell script at /home/ucscmap that can execute a query on Overpass and return the data in a file with a fresh datestamp. The resulting XML file is in OSM format. The OSM formatted file can then be read into PostgreSQL for further work.
 
